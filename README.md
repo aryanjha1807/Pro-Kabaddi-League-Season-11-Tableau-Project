@@ -17,9 +17,9 @@ This project provides an in-depth look at teams, players, matches, and achieveme
 - **Main Dashboard** — Central navigation with commentators and stadiums section.
 
 ## 🧰 Tools & Tech
-- Tableau Desktop
+- Tableau Public
 - Microsoft Excel (Data Preparation)
-- Python (Auto-fetching & preprocessing — optional step)
+- Python (Auto-fetching & preprocessing)
 
 ## 📊 Project Links
 - Explore the Interactive Tableau Project here:
